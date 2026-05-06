@@ -457,6 +457,7 @@ hr{
     .kone{
         width: 300px;
         margin: auto;
+        margin-top: 600px;
     } 
     .ktwo{
         width: 300px;
@@ -485,7 +486,7 @@ hr{
         padding-left: 10px;
     }
     .t{
-        margin: auto;
+        padding-left: 30px;
     }
     .mainon{
         width: 100%;
